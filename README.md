@@ -14,7 +14,9 @@
 
    ```bash
    git clone https://github.com/1BrainStorm9/pass_gen.git
+   ```
 
    или
    ```bash 
    git clone /путь/к/name.bundle
+   ```
